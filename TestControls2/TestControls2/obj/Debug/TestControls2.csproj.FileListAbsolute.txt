@@ -1,0 +1,12 @@
+D:\DotNetWorking\TestControls2\TestControls2\bin\Debug\TestControls2.exe.config
+D:\DotNetWorking\TestControls2\TestControls2\bin\Debug\TestControls2.exe
+D:\DotNetWorking\TestControls2\TestControls2\bin\Debug\TestControls2.pdb
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.csproj.AssemblyReference.cache
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.ButtonInDGV.resources
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.Form1.resources
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.Properties.Resources.resources
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.csproj.GenerateResource.cache
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.exe
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.pdb
+D:\DotNetWorking\TestControls2\TestControls2\obj\Debug\TestControls2.Form3.resources

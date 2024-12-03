@@ -1,0 +1,10 @@
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\bin\Debug\ThreeTierArch.exe.config
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\bin\Debug\ThreeTierArch.exe
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\bin\Debug\ThreeTierArch.pdb
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.csproj.AssemblyReference.cache
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.Form1.resources
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.Properties.Resources.resources
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.csproj.GenerateResource.cache
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.exe
+D:\DotNetWorking\ThreeTierArch\ThreeTierArch\obj\Debug\ThreeTierArch.pdb

@@ -1,0 +1,7 @@
+D:\DotNetWorking\InterFaceProg\InterFaceProg\obj\Debug\InterFaceProg.csproj.AssemblyReference.cache
+D:\DotNetWorking\InterFaceProg\InterFaceProg\obj\Debug\InterFaceProg.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\InterFaceProg\InterFaceProg\bin\Debug\InterFaceProg.exe.config
+D:\DotNetWorking\InterFaceProg\InterFaceProg\bin\Debug\InterFaceProg.exe
+D:\DotNetWorking\InterFaceProg\InterFaceProg\bin\Debug\InterFaceProg.pdb
+D:\DotNetWorking\InterFaceProg\InterFaceProg\obj\Debug\InterFaceProg.exe
+D:\DotNetWorking\InterFaceProg\InterFaceProg\obj\Debug\InterFaceProg.pdb
